@@ -1,0 +1,1 @@
+# StaticCMS.js
